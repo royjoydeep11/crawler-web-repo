@@ -30,7 +30,7 @@ Main tradeoffs:
 
 Run:
 
-     java -jar target/web-crawler-1.0-SNAPSHOT.jar
+     java -jar  target/crawler-web-0.0.1-SNAPSHOT.jar  
 
 Mandatory parameter:
 
@@ -47,7 +47,7 @@ Optional parameters:
     
 Example:
 
-    java -jar target/crawler-web-0.0.1-SNAPSHOT.jar --url="https://www.domain.com/"
+    java -jar  target/crawler-web-0.0.1-SNAPSHOT.jar --url "https://www.domain.com/"
 
 
 ## Example output XML file format
