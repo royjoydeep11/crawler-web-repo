@@ -22,7 +22,7 @@ Main tradeoffs:
 
 ## Setup
     git  clone https://github.com/royjoydeep11/crawler-web-repo.git
-    cd crawler-web/
+    cd crawler-web-repo/
     mvn clean install   -   mvn package
     
 
